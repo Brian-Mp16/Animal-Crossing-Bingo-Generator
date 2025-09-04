@@ -1,7 +1,6 @@
 This program generates balanced BINGO CARDS for Animal Crossing racing. Available games include Animal Crossing (NTSC-U), Dobutsu no Mori e+, and Cuyler's Animal Crossing Deluxe Mod. Available difficulties include Easy, Normal, and Hard.
 
 Feel free to ask any questions on BrianMp16's Discord #animal-crossing: https://discord.gg/2F8javw
-
 Download Cuyler's Deluxe Mod on the Animal Crossing Modding Discord #deluxe-download-changelog: https://discord.gg/dRWBVdjYGK
 
 Download Link to Animal Crossing Bingo Card Generator:
