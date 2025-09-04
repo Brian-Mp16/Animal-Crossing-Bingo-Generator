@@ -21,6 +21,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.bingoTablePanel = new System.Windows.Forms.TableLayoutPanel();
             this.newCard = new System.Windows.Forms.Button();
             this.listBoxGame = new System.Windows.Forms.ListBox();
@@ -101,8 +102,9 @@
             this.Controls.Add(this.listBoxGame);
             this.Controls.Add(this.newCard);
             this.Controls.Add(this.bingoTablePanel);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Animal Crossing Bingo Card Generator";
             this.ResumeLayout(false);
             this.PerformLayout();
 

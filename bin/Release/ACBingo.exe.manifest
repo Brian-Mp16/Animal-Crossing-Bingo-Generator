@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ACBingo.exe" size="46560">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ACBingo.exe" size="51168">
       <assemblyIdentity name="ACBingo" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>0NSx5KYAANT4aUFVcimcSkJNhT28gQ/O5ozvWUwQkk4=</dsig:DigestValue>
+        <dsig:DigestValue>ypFZA42yTt7Yuezsc5Vi8WG2CtcnoAKHgzSy4PKD3nM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

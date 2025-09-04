@@ -418,6 +418,8 @@ namespace ACBingo
             if (Directory.Exists(outputJSONFile))
             {
                 File.WriteAllText(outputJSONFile + outputJSONName, sbBingoJSON.ToString());
+                MessageBox.Show("Animal Crossing Bingo Card generated!\nYour .JSON file can be found under: " + outputJSONFile + outputJSONName, "Success!", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
             }
             else
             {
