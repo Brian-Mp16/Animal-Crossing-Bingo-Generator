@@ -4,8 +4,7 @@ Feel free to ask any questions on BrianMp16's Discord #animal-crossing: https://
 
 Download Cuyler's Deluxe Mod on the Animal Crossing Modding Discord #deluxe-download-changelog: https://discord.gg/dRWBVdjYGK
 
-Download Link to Animal Crossing Bingo Card Generator
-
+Download Link to Animal Crossing Bingo Card Generator:
 https://mega.nz/file/zP4n0QSL#8VOaRS77AtCYm8cRxRNadDZG-Gg67YO6_ThDy8AAMmY
 
 The generated bingo card can be used standalone OR with Bingosync.com. By providing a valid directory path on the Animal Crossing Bingo program (Replace [USER] with your computer's name), an ACBingoCard.JSON file will be generated in that directory. Then follow these steps to play this bingo card online with friends:
