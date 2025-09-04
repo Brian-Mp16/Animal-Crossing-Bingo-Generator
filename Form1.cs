@@ -15,6 +15,7 @@ namespace ACBingo
     {
         Random rnd = new Random();
         string outputJSONFile;
+        string outputJSONName = "ACBingoCard.json";
         string gameType;
         string bingoDifficulty;
         int bingoLength = 5;            //5 is the standard 5x5 bingo grid
@@ -414,9 +415,16 @@ namespace ACBingo
                 }
             }
             sbBingoJSON.Append(" ]");
-            File.WriteAllText(outputJSONFile, sbBingoJSON.ToString());
+            if (Directory.Exists(outputJSONFile))
+            {
+                File.WriteAllText(outputJSONFile + outputJSONName, sbBingoJSON.ToString());
+            }
+            else
+            {
+                MessageBox.Show("File Path Directory does not exist. Please provide a valid file path to generate a .JSON file then try again!", "Error!", MessageBoxButtons.OKCancel, MessageBoxIcon.Error);
+            }
 
-            return new Tuple<string[,], Color[,]> (bingoCardArray, bingoCardBackColor);
+            return new Tuple<string[,], Color[,]>(bingoCardArray, bingoCardBackColor);
         }
     }
 }

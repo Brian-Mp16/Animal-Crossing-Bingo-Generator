@@ -9,3 +9,7 @@ C:\Users\brian\source\repos\ACBingo\ACBingo\obj\Release\ACBingo.csproj.GenerateR
 C:\Users\brian\source\repos\ACBingo\ACBingo\obj\Release\ACBingo.csproj.CoreCompileInputs.cache
 C:\Users\brian\source\repos\ACBingo\ACBingo\obj\Release\ACBingo.exe
 C:\Users\brian\source\repos\ACBingo\ACBingo\obj\Release\ACBingo.pdb
+C:\Users\brian\source\repos\ACBingo\ACBingo\bin\Release\ACBingo.exe.manifest
+C:\Users\brian\source\repos\ACBingo\ACBingo\bin\Release\ACBingo.application
+C:\Users\brian\source\repos\ACBingo\ACBingo\obj\Release\ACBingo.exe.manifest
+C:\Users\brian\source\repos\ACBingo\ACBingo\obj\Release\ACBingo.application
