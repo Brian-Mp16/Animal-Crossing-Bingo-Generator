@@ -1,0 +1,11 @@
+C:\Users\brian\source\repos\ACBingo\ACBingo\bin\Release\ACBingo.exe.config
+C:\Users\brian\source\repos\ACBingo\ACBingo\bin\Release\ACBingo.exe
+C:\Users\brian\source\repos\ACBingo\ACBingo\bin\Release\ACBingo.pdb
+C:\Users\brian\source\repos\ACBingo\ACBingo\obj\Release\ACBingo.csproj.AssemblyReference.cache
+C:\Users\brian\source\repos\ACBingo\ACBingo\obj\Release\ACBingo.csproj.SuggestedBindingRedirects.cache
+C:\Users\brian\source\repos\ACBingo\ACBingo\obj\Release\ACBingo.Form1.resources
+C:\Users\brian\source\repos\ACBingo\ACBingo\obj\Release\ACBingo.Properties.Resources.resources
+C:\Users\brian\source\repos\ACBingo\ACBingo\obj\Release\ACBingo.csproj.GenerateResource.cache
+C:\Users\brian\source\repos\ACBingo\ACBingo\obj\Release\ACBingo.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\ACBingo\ACBingo\obj\Release\ACBingo.exe
+C:\Users\brian\source\repos\ACBingo\ACBingo\obj\Release\ACBingo.pdb
